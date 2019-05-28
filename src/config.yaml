@@ -1,0 +1,4 @@
+settings:
+  entities: "q3def"
+editors:
+  - "netradiant"

@@ -1,0 +1,19 @@
+game:
+  name: "Smokin' Guns"
+  keyword:
+    editor: "smokinguns"
+    compiler: "smokinguns"
+  base: "smokinguns"
+  textures: "textures"
+engine:
+  linux:
+    dir: "/usr/lib/smokinguns/"
+    name: "smokinguns.x86_64"
+  macos:
+    dir: "/Applications/Smokin' Guns/"
+    name: "Smokin' Guns.app"
+  win:
+    dir: "C:/Program Files/Smokin' Guns/"
+    name: "smokinguns.exe"
+home:
+  legacy: ".smokinguns"

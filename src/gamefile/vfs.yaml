@@ -1,0 +1,23 @@
+vfs:
+  - pk3
+map:
+  type:
+    - mapq3
+  brush:
+    - quake3
+  patch:
+    - quake3
+shader:
+  type: quake3
+  path: scripts
+  ext: shader
+texture:
+  - tga
+  - jpg
+model:
+  - md3
+  - ase
+  - lwo
+  - obj
+  - 3ds
+  - picoterrain
