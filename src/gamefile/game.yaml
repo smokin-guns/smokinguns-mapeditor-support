@@ -12,7 +12,7 @@ engine:
   macos:
     dir: "/Applications/Smokin' Guns/"
     name: "Smokin' Guns.app"
-  win:
+  windows:
     dir: "C:/Program Files/Smokin' Guns/"
     name: "smokinguns.exe"
 home:
